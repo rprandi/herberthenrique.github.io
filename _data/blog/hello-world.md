@@ -16,7 +16,7 @@ metaDescription: >-
 
 
   Also, I love javascript, functional programming and terrible jokes 🤷‍♂️
-thumbnail: /assets/pingado.jpg
+thumbnail: /assets/img_2376_fotor.jpg
 ---
 
 # Hi 👋
