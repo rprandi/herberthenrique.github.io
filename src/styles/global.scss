@@ -142,13 +142,14 @@ a {
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  background-image: url("/assets/background.jpg");
+  background-image: url("/assets/background-mobile.jpg");
   height: var(--featured-size-mobile);
   background-size: cover;
   background-position: top;
 
   @media only screen and (min-width: 768px) {
     height: var(--featured-size-desktop);
+    background-image: url("/assets/background.jpg");
   }
 }
 
