@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /hello-world
-date: 2020-02-20T07:08:53.137Z
+date: 2020-05-10T15:40:00.000Z
 title: Hello World
 metaDescription: >-
   Hi 👋
