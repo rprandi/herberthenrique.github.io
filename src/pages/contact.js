@@ -36,14 +36,14 @@ const ContactPage = ({ data: { site } }) => {
             </a>{" "}
             or{" "}
             <a
-              href="https://instagram.com/_herberthenrique"
+              href="https://linkedin.com/in/herberthenrique"
               rel="noopener noreferrer"
               target="_blank"
             >
-              instagram
+              linkedin
             </a>
           </p>
-          or just send me a mail to contact@herberthenrique twitter mail 📝
+          or just send me a mail to contact@herberthenrique 📝
         </div>
       </div>
     </Layout>

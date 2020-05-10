@@ -25,7 +25,30 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>
+        <div class="social-network">
+          <a
+            href="https://twitter.com/herberth3nrique"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            twitter
+          </a>{" "}
+          <a
+            href="https://github.com/herberthenrique"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            github
+          </a>{" "}
+          <a
+            href="https://linkedin.com/in/herberthenrique"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            linkedin
+          </a>
+        </div>
+        <div class="info">
           <span role="img" aria-label="">
             👨‍💻
           </span>{" "}
@@ -34,7 +57,7 @@ export default ({ children }) => {
             ❤️
           </span>{" "}
           - herbert henrique
-        </p>
+        </div>
       </footer>
     </div>
   );
