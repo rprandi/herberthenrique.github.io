@@ -51,7 +51,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#421e85`,
         display: `standalone`,
-        icon: "src/images/pingado.png",
+        icon: "src/images/pingado.jpg",
       },
     },
     `gatsby-plugin-sass`,
