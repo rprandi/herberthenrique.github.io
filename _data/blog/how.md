@@ -10,6 +10,7 @@ metaDescription: >-
 thumbnail: /assets/why-frontend.jpeg
 ---
 
+> Photo by [Greg Rakozy](https://unsplash.com/@grakozy) on [Unsplash](https://unsplash.com/photos/vw3Ahg4x1tY)
 
 I had been working with software development for more than ten years, but only in the last four years of my career I realized I can call my self a _“frontend”_.
 
