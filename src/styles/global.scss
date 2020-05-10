@@ -3,6 +3,11 @@
 $font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
   Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 
+* {
+  --featured-size-mobile: 250px;
+  --featured-size-desktop: 500px;
+}
+
 html,
 body {
   margin: 0;
@@ -118,6 +123,35 @@ a {
   font-size: 36px;
   margin-bottom: 0.5rem;
 }
+
+.featured-container {
+  position: relative;
+  height: var(--featured-size-mobile);
+  margin-bottom: 32px;
+
+  @media only screen and (min-width: 768px) {
+    height: var(--featured-size-desktop);
+  }
+}
+
+.featured-img {
+  position: absolute;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  background-image: url("/assets/background.jpg");
+  height: var(--featured-size-mobile);
+  background-size: cover;
+  background-position: top;
+
+  @media only screen and (min-width: 768px) {
+    height: var(--featured-size-desktop);
+  }
+}
+
 .button {
   padding: 18px 27px;
   display: inline-block;
