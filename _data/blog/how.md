@@ -4,11 +4,9 @@ path: /how-i-become-frontend
 date: 2020-05-12T10:00:00.000Z
 title: How I become a frontend developer and what I learned from it
 metaDescription: >-
-I had been working with software development for more than ten years, but only in the last four years of my career I realized I can call my self a frontend.
+  I had been working with software development for more than ten years, but only in the last four years of my career I realized I can call my self a frontend.
 
-I learned a lot changing this job title, things like what you create is more important than technology.
-
-
+  I learned a lot changing this job title, things like what you create is more important than technology.
 thumbnail: /assets/why-frontend.jpeg
 ---
 
