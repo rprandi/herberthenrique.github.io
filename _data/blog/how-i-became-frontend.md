@@ -44,3 +44,7 @@ That’s the basic but sometimes a few people don’t realize that. If you're a 
 
 Have an open mind, try new things and maybe you’ll find a new love :)
 
+
+### Did you find this post useful?
+
+[Click here to share this post on Twitter](https://twitter.com/intent/tweet?text=How%20I%20became%20a%20frontend%20developer%20and%20what%20I%20learned%20from%20it%20via%20%40herberth3nrique&url=https://herberthenrique.com/how-i-became-frontend) and tell me what you think or just send me a message at [@herberth3nrique](https://twitter.com/herberth3nrique). :)
