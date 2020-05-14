@@ -4,7 +4,7 @@ path: /5-reasons-my-team-decided-use-go
 date: 2020-05-17T10:00:00.000Z
 title: 5 Reasons why my team decided to use Go
 metaDescription: >-
-  Five reasons why my team decided to use golang as our main programming language, this includes hiring, Easy to learn, be productive and deliver value and it’s a compiled, statically typed language.
+  Five reasons why my team decided to use golang as our main programming language
 thumbnail:
 ---
 
