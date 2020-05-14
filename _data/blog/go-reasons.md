@@ -4,7 +4,7 @@ path: /5-reasons-my-team-decided-use-go
 date: 2020-05-17T10:00:00.000Z
 title: 5 Reasons why my team decided to use Go
 metaDescription: >-
-  here comes a nice meta description
+  Five reasons why my team decided to use golang as our main programming language, this includes hiring, Easy to learn, be productive and deliver value and it’s a compiled, statically typed language.
 thumbnail:
 ---
 
@@ -32,7 +32,22 @@ Go I would describe as focusing on making exactly what’s going on very clear. 
 
 # 3 - It’s a compiled, statically typed language.
 
+I'll tell you a secret if don't work today with typed languages: You gonna love it or hate it.
+In case you hate, you gonna only be able to see the biggest benefits of working in a new codebase or after some time.
+In the end, software biggest cost lives in maintaining and not in the time you created and after a few time, the types will help you a lot to find out how the software is working.
+Type will also help you to find out about errors in the early stage of the development process.
+
+Static typing usually results in compiled code that executes quickly. The compiler knows the exact data types that are in use, it can produce optimized machine code.
+
 # 4 - The Tooling around helps you and it's opinionated
+
+If you install Go, you'll have already a lint, formatting, and testing tools.
+
+Using `gofmt` an `goimports` in your code will have out the box all the settings and best practices adopted by the community.
+You can go a little further with more restrictive rules, I made this for a few projects and in the end was learning even more how to properly use the language.
+Go is super opinionated by default with code style and you don't need to waste time arguing with your team about small details, you just need to follow what is already defined.
+
+Go also comes with a test framework, so you have all the basic to already create a good and maintainable software without having to worry too much or choose frameworks.
 
 # 5 - We want to have a common language in our squads/tribe
 
