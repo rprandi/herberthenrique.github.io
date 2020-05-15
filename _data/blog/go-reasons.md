@@ -5,7 +5,7 @@ date: 2020-05-17T10:00:00.000Z
 title: 5 Reasons why my team decided to use Go
 metaDescription: >-
   Five reasons why my team decided to use golang as our main programming language
-thumbnail:
+thumbnail: /assets/go_sumup.jpg
 ---
 
 Hi! My name is Herbert and I'm a software engineer at [@SumUp](https://twitter.com/sumupeng). We're a multi-language company and this means we **a lot** of languages running inside our ecosystem. Just to mentions a few of them, we have: Go, Ruby, Elixir, Erlang, Javascript (node), Swift, Kotlin.
