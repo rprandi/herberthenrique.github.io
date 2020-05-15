@@ -1,10 +1,10 @@
 ---
 template: BlogPost
-path: /5-reasons-my-team-decided-use-go
+path: /6-reasons-my-team-decided-use-go
 date: 2020-05-17T10:00:00.000Z
-title: 5 Reasons why my team decided to use Go
+title: 6 Reasons why my team decided to use Go
 metaDescription: >-
-  Five reasons why my team decided to use golang as our main programming language
+  Six reasons why my team decided to use golang as our main programming language
 thumbnail: /assets/go_sumup.jpg
 ---
 
@@ -56,7 +56,17 @@ We work with the concept [The Spotify Tribe Engineering Model](https://medium.co
 This is really for the company, but also for developers who want to change the current context a little or maybe live in another country.
 We had some of these experiences of a software engineer who had [a life between two continents](Life as a SumUp Software Engineer across 2 continents).
 
-### Bonus reason - Amazing mascot, great packages names.
+# No Silver Bullet
+
+Go will never be our [silver bullet](https://en.wikipedia.org/wiki/No_Silver_Bullet) and we don't expect this from this language or any other.
+And you shouldn't expect this from any technology.
+
+Go demonstrates be a good solution for our next project and become the first answer if we think what is going to be the language of other projects, but this will never mean that Go will be the solution for everything
+And we're happy with this, we need to also have space to create new things and find the right tools for the job.
+
+
+
+## Bonus reason - Amazing mascot, great packages names.
 
 Did you see their mascot? You can even have [your own gopher](https://gopherize.me/)? or incredible libraries names like [Gin Gonic](https://github.com/gin-gonic/gin), [Gorilla](https://www.gorillatoolkit.org/) or [Buffalo](https://gobuffalo.io/en/)?
 
